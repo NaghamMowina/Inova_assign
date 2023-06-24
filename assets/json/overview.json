@@ -1,0 +1,24 @@
+{
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "videoURl": "",
+    "overall": {
+        "totalTime": "8",
+        "videosNumber": 20,
+        "difficulty": "Beginner",
+        "intensity": "1",
+        "coaches": [
+            {
+                "name": "Ali Tarek",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            }
+        ],
+        "classes": [
+            {
+                "name": "Nagham Sherif",
+                "url": "https://www.youtube.com/watch?v=AnYl6Nk9GOA&ab_channel=PamelaReif",
+                "duration": "23:24",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            }
+        ]
+    }
+}
